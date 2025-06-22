@@ -45,7 +45,7 @@ Organize, share, and sync design assets in real time with CorelDRAW’s Dynamic 
 ### 🖼 Preview
 
 Dynamic Asset Management docker open inside CorelDRAW  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://i.pcmag.com/imagery/reviews/01aEjt1WgLmvfcPpWXpMimo-28.fit_lim.size_1050x.png)
 *Efficient, real-time asset control for professional design workflows*
 
 ---
